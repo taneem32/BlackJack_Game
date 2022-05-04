@@ -1,0 +1,48 @@
+body{
+
+    background-image: url("/Images/table.png");
+    background-size: cover;
+    font-style: bold;
+    font-weight: bold;
+    color:white;
+    text-align:center;
+
+}
+
+button{
+
+    background-color: goldenrod;
+    width: 180px;
+    height: 60px;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: green;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+
+}
+
+h1{    
+    color: goldenrod;
+}
+
+.paraEle{
+
+    font-weight: bold;
+    color: white;
+    font-size: large;
+
+}
+
+#message{
+
+    font-size: large;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
